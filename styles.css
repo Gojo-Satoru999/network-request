@@ -1,0 +1,32 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+.weather-info {
+    margin-top: 20px;
+}
+
+.location {
+    font-size: 24px;
+}
+
+.temperature {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.description {
+    font-size: 18px;
+}
